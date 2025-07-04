@@ -1,5 +1,5 @@
 <!-- Top SVG Wave -->
-<img src="https://raw.githubusercontent.com/vinoothnaande/vinoothnaande/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/vinoothna20/vinoothna20/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#f06292">Vinoothna Ande</span></h1>
 <h3 align="center">💻 Associate Software Engineer | 🌱 Frontend Enthusiast | ⚡ Project Creator</h3>
@@ -49,12 +49,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinoothnaande&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinoothnaande&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinoothna20&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=vinoothna20&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vinoothnaande&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinoothna20&theme=react-dark&hide_border=true" />
 </p>
 
 ---
