@@ -1,68 +1,81 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#f06292">Vinoothna Ande</span></h1>
-<h3 align="center">💻 Associate Software Engineer | 🌱 Frontend Enthusiast | ⚡ Project Creator</h3>
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Hi+there+👋,+I'm+Vinoothna+Ande;Frontend+Dev+%7C+React+Lover+%7C+Project+Builder" alt="Typing animation" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinoothnaande/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vinoothnaande&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Looking%20For-Full--Time%20%7C%20Freelance-success?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🌟 I'm a passionate developer from India who loves building beautiful and functional web applications.  
-🎓 Graduated in Computer Science (B.Tech) from SRK Institute of Technology.  
-💼 Currently working as an **Associate Software Engineer**.  
-📌 I've built several cool projects – check the pinned section below!  
-🤝 Open to freelance and full-time opportunities in frontend and full-stack development.
+✨ Passionate developer from India who loves turning ideas into real-world web applications.  
+🎓 B.Tech in Computer Science from **SRK Institute of Technology**  
+💼 Currently working as an **Associate Software Engineer**  
+🔧 Tech enthusiast focused on clean, interactive, and responsive UI/UX  
+🧠 Constantly learning and building — one commit at a time  
+🎯 Open to **freelance** and **full-time** opportunities
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,mysql,python,c,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JS%20%7C%20Tailwind-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-MySQL-lightgrey?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub-black?style=flat-square&logo=github" />
 </p>
 
 ---
 
 ### 💡 Featured Projects
 
-| 💻 Project              | 🔍 Description                          |
+| 🚀 Project              | 💬 Description                          |
 |------------------------|------------------------------------------|
-| 🎬 **FreeFlix**         | Streaming app UI with sleek design      |
-| 🛒 **Add to Cart**      | Dynamic cart with JS functionality       |
-| 💸 **Split Payment**    | Share expenses easily among users        |
-| 💱 **Currency Converter**| Real-time currency exchange app         |
-| 🎮 **Rock Paper Scissors** | Classic game using JS              |
-| ✏️ **Etch-a-Sketch**    | Fun sketching app using grid & CSS       |
+| 🎬 **FreeFlix**         | A clean and modern streaming app UI built with React |
+| 🛒 **Add to Cart**      | JS-based dynamic shopping cart experience |
+| 💸 **Split Payment**    | Easy-to-use expense splitter among friends |
+| 💱 **Currency Converter**| Real-time currency exchange app using APIs |
+| 🎮 **Rock Paper Scissors** | Classic browser-based game using JavaScript |
+| ✏️ **Etch-a-Sketch**    | Sketch pad made with CSS Grid and JS magic |
 
-> ✨ _All of these are **pinned** on my GitHub profile — feel free to explore!_
+> 🧩 _Pinned on my GitHub profile — explore them all!_
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinoothna20&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=vinoothna20&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinoothna20&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=vinoothna20&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinoothna20&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinoothna20&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Connect with Me
 
-- 📬 [LinkedIn](https://www.linkedin.com/in/vinoothnaande/)
-- 🌍 [GitHub](https://github.com/vinoothna20)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinoothnaande/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinoothna%20Ande-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/vinoothna20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-vinoothna20-24292f?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-<!-- Bottom SVG wave (optional aesthetic element) -->
+<!-- Decorative wave -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
