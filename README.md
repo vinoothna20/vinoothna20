@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Waving hand" width="120" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#f06292">Vinoothna Ande</span></h1>
 
 <p align="center">
