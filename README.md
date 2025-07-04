@@ -62,7 +62,7 @@
 ### 🌐 Let's Connect!
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/vinoothnaande/)
-- 🌍 [GitHub](https://github.com/vinoothnaande)
+- 🌍 [GitHub](https://github.com/vinoothna20)
 
 ---
 
