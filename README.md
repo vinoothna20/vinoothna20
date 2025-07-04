@@ -1,6 +1,3 @@
-<!-- Top SVG Wave -->
-<img src="https://raw.githubusercontent.com/vinoothna20/vinoothna20/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#f06292">Vinoothna Ande</span></h1>
 <h3 align="center">💻 Associate Software Engineer | 🌱 Frontend Enthusiast | ⚡ Project Creator</h3>
 
