@@ -1,7 +1,8 @@
-<!-- Typing animation header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F06292&center=true&width=600&lines=Hi+there+👋,+I'm+Vinoothna+Ande;Frontend+Developer+%7C+React+Enthusiast" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Waving hand" width="120" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#f06292">Vinoothna Ande</span></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge" />
