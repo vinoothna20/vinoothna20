@@ -25,12 +25,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,mysql,python,c,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JS%20%7C%20Tailwind-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-MySQL-lightgrey?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub-black?style=flat-square&logo=github" />
-</p>
-
 ---
 
 ### 💡 Featured Projects
