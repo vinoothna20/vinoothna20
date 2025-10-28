@@ -12,7 +12,6 @@
 
 ✨ Passionate developer from India who loves turning ideas into real-world web applications.  
 🎓 B.Tech in Computer Science from **SRK Institute of Technology**  
-💼 Currently working as an **Associate Software Engineer**  
 🔧 Tech enthusiast focused on clean, interactive, and responsive UI/UX  
 🧠 Constantly learning and building — one commit at a time  
 🎯 Open to **freelance** and **full-time** opportunities
